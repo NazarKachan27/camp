@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+}
+header {  
+    margin-top: -8px;  
+    margin-left: -7.7px;  
+    background: url(https://camp.emilyresort.com.ua/wp-content/uploads/2023/09/%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B8_%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BD%D1%96%D0%BA%D1%83%D0%BB%D0%B0%D1%85_%D0%BE%D0%B1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0_%D1%81%D0%B0%D0%B9%D1%82-2.jpg) center no-repeat;  
+    height: 900px;  
+    width: 1400px;  
+    background-size: cover;  
+}  
+.la {  
+    margin-left: 700px;  
+} 
+.div-1,.div-2, .div-3 {
+    background: #FFF;
+    box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    width: 450px;
+    height: 550px;
+}
+.div-0 {
+    display: flex;
+    justify-content: start;
+    width: 1400px;
+    height: 550px;
+    padding-top: 40px;
+}
+main img {
+    width: 400px;
+    height: 250px;   
+    margin: 30px 0px 0px 27px;
+}
+main h2 {
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+}
+main p {
+    text-align: center;
+    font-weight: 300;
+    line-height: normal;
+    color: var(--wp--preset--color--intrace-primary) !important;
+}
+.div-2,.div-3 {
+    margin-left: 20px;
+}
+main h1 {
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 1;
+}
+.iio {
+    padding-top: 30px;
+}
+.i {
+    text-align: left;
+    font-size: 20px;
+    color: lightgrey;
+}
+a {
+    color: #ad9271;
+}
+.div-4 {
+    background: #FFF;
+    box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    width: 1400px;
+    padding: 10px;
+}
+.ee {
+    border-bottom: none;
+    height: 1px;
+    background-color: var(--wp--preset--color--intrace-body-text-2) !important;
+}
+footer {
+    background-color: black;
+    padding: 20px;
+    width: 1400px;
+}
+footer p {
+    color: white;
+}
+.p {
+    float: right;
+    text-align: right;
+}
+main a  {
+    padding-bottom: 10px;
+}
+.rt {
+    color: #ad9271;
+    padding-left: 500px;
+    text-decoration: none;
+    font-size: 25px;
+}
